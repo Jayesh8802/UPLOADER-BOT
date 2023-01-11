@@ -1,7 +1,7 @@
 numpy
 yt-dlp
 Pillow
-aiohttp
+
 hachoir
 olefile
 requests
